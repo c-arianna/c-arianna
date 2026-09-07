@@ -1,22 +1,5 @@
 # Hi, I'm Arianna 👋
 
-Backend Engineer with 10+ years of experience building Java and Spring-based applications.
-
-My primary interests include:
-
-- Software Architecture
-- Domain-Driven Design (DDD)
-- CQRS
-- Event Sourcing
-- Microservices Architecture
-- Event-Driven Systems
-- Technical Leadership
-- Technical Mentoring
-
----
-
-## About Me
-
 I am a Backend Engineer with more than 10 years of professional experience designing and building Java and Spring-based applications.
 
 My strongest areas are backend development and software architecture, with particular interest in Domain-Driven Design, CQRS, Event Sourcing and distributed systems.
@@ -27,13 +10,13 @@ Over approximately six months, I designed and implemented a series of projects b
 
 The objective was not simply to learn new technologies, but to better understand architectural trade-offs, system evolution and distributed communication patterns.
 
-Today I am particularly interested in backend engineering, software architecture, technical leadership, mentoring and technical consulting opportunities.
+Today I am particularly interested in backend engineering, software architecture, technical leadership, technical mentoring and consulting opportunities.
 
 ---
 
 ## Featured Projects
 
-The repositories below represent the projects developed throughout this mentoring journey and document the evolution of the same business domain across different architectural approaches.
+The repositories below were developed throughout this mentoring journey and document the evolution of the same business domain across different architectural approaches.
 
 - Library Microservices Platform
 - Library Frontend
