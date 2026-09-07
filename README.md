@@ -50,7 +50,7 @@ Distributed Spring Boot platform exploring:
 - Distributed Tracing
 - Event-Driven Architecture
 
-➡️ [library-microservices](https://github.com/c-arianna)
+📂 Repository: [library-microservices](https://github.com/c-arianna/library-microservices)
 
 ---
 
@@ -64,7 +64,7 @@ Angular frontend integrated with:
 - Role-Based Access Control
 - Real-Time Updates
 
-➡️ [library-frontend](https://github.com/c-arianna)
+📂 Repository: [library-frontend](https://github.com/c-arianna/library-frontend)
 
 ---
 
@@ -77,7 +77,7 @@ Spring Boot monolith used to consolidate:
 - Event Sourcing
 - Architectural Patterns
 
-➡️ [library-app](https://github.com/c-arianna)
+📂 Repository: [library-app](https://github.com/c-arianna/library-app)
 
 ---
 
@@ -90,7 +90,7 @@ Node.js + TypeScript project exploring:
 - Domain-Driven Design (DDD)
 - Event Sourcing
 
-➡️ [library-api](https://github.com/c-arianna/library-api)
+📂 Repository: [library-api](https://github.com/c-arianna/library-api)
 
 ---
 
