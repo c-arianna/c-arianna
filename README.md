@@ -10,7 +10,7 @@ Over approximately six months, I designed and implemented a series of projects b
 
 The objective was not simply to learn new technologies, but to better understand architectural trade-offs, system evolution and distributed communication patterns.
 
-Today I am particularly interested in backend engineering, software architecture, technical leadership, technical mentoring and consulting opportunities.
+Today I am particularly interested in backend engineering, software architecture, technical leadership, mentoring and technical consulting opportunities.
 
 ---
 
