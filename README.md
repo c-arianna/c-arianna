@@ -35,62 +35,10 @@ Today I am particularly interested in backend engineering, software architecture
 
 The repositories below represent the projects developed throughout this mentoring journey and document the evolution of the same business domain across different architectural approaches.
 
-### Library Microservices Platform
-
-Distributed Spring Boot platform exploring:
-
-- Domain-Driven Design (DDD)
-- CQRS
-- Event Sourcing
-- RabbitMQ
-- Replay events
-- Outbox Pattern
-- Contract Testing
-- BDD Testing
-- Distributed Tracing
-- Event-Driven Architecture
-
-📂 Repository: [library-microservices](https://github.com/c-arianna/library-microservices)
-
----
-
-### Library Frontend
-
-Angular frontend integrated with:
-
-- Keycloak Authentication
-- WebSocket Notifications
-- Angular Signals
-- Role-Based Access Control
-- Real-Time Updates
-
-📂 Repository: [library-frontend](https://github.com/c-arianna/library-frontend)
-
----
-
-### Library Monolith
-
-Spring Boot monolith used to consolidate:
-
-- Domain-Driven Design (DDD)
-- CQRS
-- Event Sourcing
-- Architectural Patterns
-
-📂 Repository: [library-app](https://github.com/c-arianna/library-app)
-
----
-
-### Library API
-
-Node.js + TypeScript project exploring:
-
-- Node.js
-- TypeScript
-- Domain-Driven Design (DDD)
-- Event Sourcing
-
-📂 Repository: [library-api](https://github.com/c-arianna/library-api)
+- Library Microservices Platform
+- Library Frontend
+- Library Monolith
+- Library API
 
 ---
 
